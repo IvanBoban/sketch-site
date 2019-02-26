@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+}
+
+#insta {
+  font-size: 20px;
+}
+
+.navbar-inverse {
+  background: #2e2f30;
+}
+#expo {
+  width: 100%;
+  background-image: linear-gradient(90deg, pink, purple);
+}
+.jumbotron {
+  background-image: linear-gradient(90deg, pink, purple);
+  font-family: Pacifico;
+  text-align: center;
+}
+.thumbnail {
+  border: 0;
+}
+
+.footer-copyright {
+  padding-top: 5px;
+  height: 3rem;
+  width: 100%;
+  background: black;
+}
+.footer-copyright a {
+  text-decoration: none;
+}
